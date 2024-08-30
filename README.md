@@ -1,6 +1,6 @@
 # aulagit-turma13
-<h1>Henry Novais Calmon</h1>
-<ul><b>EXPERIÊNCIAS:</b></ul><br>
+<h1>Henry Novais Calmon</h1><br>
+<ul><b>EXPERIÊNCIAS:</b></ul>
     <li>Curso em Vídeo - JavaScript</li>
     <li>Projetos pessoais de sites</li>
     <li>Grasshopper - Fundamentos 1 JavaScript</li>
@@ -13,9 +13,9 @@
     <li>Curso em Vídeo - Algoritmos</li>
     <li>Fundação Bradesco - Postura e imagem profissional</li>
     <li>UFAL - Ciências da Computação - começará em 2025</li><br>
-<ul><b>INTERESSES:</b></ul><br>
+<ul><b>INTERESSES:</b></ul>
     <li>Entrar no mercado de trabalho da área de T.I para aprender e aprimorar mais minhas habilidades por meio da prática real</li><br>
-<ul><b>TECNOLOGIAS:</b></ul><br>
+<ul><b>TECNOLOGIAS:</b></ul>
     <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
